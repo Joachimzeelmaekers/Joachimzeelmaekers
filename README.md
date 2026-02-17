@@ -2,9 +2,11 @@
 
 📍 **Belgium** | 🛠️ **Senior Software Engineer** | ✍️ **Writer**
 
-[![Website](https://img.shields.io/badge/joachimz.me-000?style=flat-square&logo=ghost&logoColor=white)](https://joachimz.me)
-[![X](https://img.shields.io/badge/@joachimz__me-000?style=flat-square&logo=x&logoColor=white)](https://x.com/joachimz_me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joachim-z)
+Building reliable systems at [DataCamp](https://www.datacamp.com). On the side, building and maintaining a product.
+
+I write about software engineering, architecture, and growth at [joachimz.me](https://joachimz.me).
+
+> "Keep raising the bar — with clarity, not complexity."
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E)
@@ -21,12 +23,6 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-000?style=flat-square&logo=cloudflare&logoColor=F38020)
 ![Terraform](https://img.shields.io/badge/Terraform-000?style=flat-square&logo=terraform&logoColor=844FBA)
 ![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=F05032)
-
-Building reliable systems at [DataCamp](https://www.datacamp.com). On the side, building and maintaining a product.
-
-I write about software engineering, architecture, and growth at [joachimz.me](https://joachimz.me).
-
-> "Keep raising the bar — with clarity, not complexity."
 
 ## Recent Writing
 
@@ -49,6 +45,12 @@ I write about software engineering, architecture, and growth at [joachimz.me](ht
 ## Activity
 
 ![GitHub Activity](https://ghchart.rshah.org/Joachimzeelmaekers)
+
+## Connect
+
+[![Website](https://img.shields.io/badge/joachimz.me-000?style=flat-square&logo=ghost&logoColor=white)](https://joachimz.me)
+[![X](https://img.shields.io/badge/@joachimz__me-000?style=flat-square&logo=x&logoColor=white)](https://x.com/joachimz_me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joachim-z)
 
 ---
 
