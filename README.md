@@ -4,7 +4,7 @@
 [![X](https://img.shields.io/badge/@joachimz__me-000?style=flat-square&logo=x&logoColor=white)](https://x.com/joachimz_me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joachim-zeelmaekers)
 
-**Senior Software Engineer** at [DataCamp](https://www.datacamp.com). Building reliable systems, raising engineering quality, and helping teams grow.
+**Senior Software Engineer** at [DataCamp](https://www.datacamp.com). Building reliable systems, raising engineering quality, and helping teams grow. On the side, building and maintaining a product.
 
 I write about software engineering, architecture, and growth at [joachimz.me](https://joachimz.me).
 
@@ -15,11 +15,9 @@ I write about software engineering, architecture, and growth at [joachimz.me](ht
 - **[What Great Teams Understand](https://joachimz.me/what-great-teams-understand/)** — commitment without agreement
 - **[Architecture Without Constraints Is Just Speculation](https://joachimz.me/architecture-without-constraints-is-just-speculation/)** — on practical system design
 
-## Public Projects
+## Projects
 
-| Project                                                            | Description                                                                     |
-| ------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
-| [**stacksmith**](https://github.com/Joachimzeelmaekers/stacksmith) | A workbench for learning Data Structures and Algorithms — built with TypeScript |
+- [**stacksmith**](https://github.com/Joachimzeelmaekers/stacksmith) — a workbench for learning Data Structures and Algorithms
 
 ## Focus Areas
 
