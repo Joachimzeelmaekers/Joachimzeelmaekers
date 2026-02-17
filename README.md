@@ -6,7 +6,7 @@ Building reliable systems at [DataCamp](https://www.datacamp.com). On the side, 
 
 I write about software engineering, architecture, and growth at [joachimz.me](https://joachimz.me).
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=C9A9E9&vCenter=true&width=300&lines=Clarity+over+cleverness;Ship+with+confidence;Keep+raising+the+bar)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=100&duration=2000&color=C9A9E9&vCenter=true&width=300&lines=Clarity+over+cleverness;Ship+with+confidence;Keep+raising+the+bar)
 
 ## Recent Writing
 
