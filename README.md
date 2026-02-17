@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/joachimz.me-000?style=flat-square&logo=ghost&logoColor=white)](https://joachimz.me)
 [![X](https://img.shields.io/badge/@joachimz__me-000?style=flat-square&logo=x&logoColor=white)](https://x.com/joachimz_me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joachim-zeelmaekers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joachim-z)
 
 **Senior Software Engineer** at [DataCamp](https://www.datacamp.com). Building reliable systems, raising engineering quality, and helping teams grow. On the side, building and maintaining a product.
 
