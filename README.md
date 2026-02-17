@@ -44,10 +44,6 @@ I write about software engineering, architecture, and growth at [joachimz.me](ht
 - Technical leadership & mentoring
 - Developer experience
 
-## Activity
-
-![Joachim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joachimzeelmaekers&show_icons=true&theme=dark&hide_border=true)
-
 ## Connect
 
 [![Website](https://img.shields.io/badge/joachimz.me-000?style=flat-square&logo=ghost&logoColor=white)](https://joachimz.me)
