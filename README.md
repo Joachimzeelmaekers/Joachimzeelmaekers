@@ -1,60 +1,52 @@
-# 👋 Hi, I’m Joachim
+# Hi, I'm Joachim 👋
 
-**Senior Software Engineer** focused on building reliable systems, raising engineering quality, and helping teams grow.  
+[![Website](https://img.shields.io/badge/joachimz.me-000?style=flat-square&logo=ghost&logoColor=white)](https://joachimz.me)
+[![X](https://img.shields.io/badge/@joachimz__me-000?style=flat-square&logo=x&logoColor=white)](https://x.com/joachimz_me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joachim-zeelmaekers)
 
-- I love writing about software engineering & growth at [joachimz.me](https://joachimz.me)
-- Currently working at [DataCamp](https://www.datacamp.com) as a Senior Software Engineer
-- Also contracting as a side business for start-ups. More info can be found [here](https://www.webtric.be) 
+**Senior Software Engineer** at [DataCamp](https://www.datacamp.com). Building reliable systems, raising engineering quality, and helping teams grow.
 
-## What I Do
+I write about software engineering, architecture, and growth at [joachimz.me](https://joachimz.me).
 
-I care deeply about *how* software is built, not just *that* it works.
+## Recent Writing
 
-- Design and build scalable, maintainable systems
-- Work across the stack with a strong product mindset
-- Lead by example through _clean_ (or as clean as it can be) code, reviews, and mentoring
-- Help teams make better technical decisions over time
-- Continuously improve developer experience and delivery quality
+- **[The Cost of Keeping What You Should Remove](https://joachimz.me/the-cost-of-keeping-what-you-should-remove/)** — why "it still works" is an expensive lie in software
+- **[What Code Reviews Actually Teach Us](https://joachimz.me/code-reviews/)** — on learning, not gatekeeping
+- **[What Great Teams Understand](https://joachimz.me/what-great-teams-understand/)** — commitment without agreement
+- **[Architecture Without Constraints Is Just Speculation](https://joachimz.me/architecture-without-constraints-is-just-speculation/)** — on practical system design
 
-## Engineering Focus
+## Public Projects
 
-- **Architecture & system design** — thinking beyond the happy path
-- **Code quality & maintainability** — readability, testing, and long-term health
-- **Technical leadership** — influencing without authority
-- **Developer growth** — mentoring, feedback, and shared standards
+| Project                                                            | Description                                                                     |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
+| [**stacksmith**](https://github.com/Joachimzeelmaekers/stacksmith) | A workbench for learning Data Structures and Algorithms — built with TypeScript |
 
-## Writing & Thought Leadership
+## Focus Areas
 
-I write to clarify my thinking and share lessons learned along the way.
+- Architecture & system design
+- Code quality & maintainability
+- Technical leadership & mentoring
+- Developer experience
 
-Some posts you might enjoy:
+## Toolbox
 
-- **[My First 5 Years as a Software Engineer](https://joachimz.me/posts/my-first-5-years-as-a-software-engineer/)**  
-  Reflections on growth, mistakes, and long-term thinking.
+**Languages & Frameworks**\
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=3776AB)
+![Go](https://img.shields.io/badge/Go-000?style=flat-square&logo=go&logoColor=00ADD8)
+![NestJS](https://img.shields.io/badge/NestJS-000?style=flat-square&logo=nestjs&logoColor=E0234E)
 
-- **[Respecting What Came Before](https://joachimz.me/posts/respecting-what-came-before/)**  
-  On legacy code, context, and engineering empathy.
+**Infrastructure & Data**\
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/K8S-000?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![GCP](https://img.shields.io/badge/GCP-000?style=flat-square&logo=googlecloud&logoColor=4285F4)
+![AWS](https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-000?style=flat-square&logo=cloudflare&logoColor=F38020)
+![Terraform](https://img.shields.io/badge/Terraform-000?style=flat-square&logo=terraform&logoColor=844FBA)
+![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=F05032)
 
-- **[5 Phases to create a 5-year growth plan as a developer](https://joachimz.me/5-phases-to-create-a-5-year-growth-plan/)**  
-  On how to create your personal 5-year growth plan as a developer.
-
-Writing is a core part of how I am trying to give back to the community.
-
-## Highlights
-
-- Experienced in delivering value, even if it requires significant trade-offs
-- Professional experience shipping and maintaining production systems
-- Strong advocate for engineering best practices and long-term thinking
-- Experience mentoring engineers and raising team standards
-- Comfortable working in ambiguous problem spaces
-
-## Let’s Connect
-
-If you’re interested in:
-- System design & architecture discussions
-- Engineering leadership & growth
-- Writing about software engineering
-
-Feel free to reach out or explore my work.
-
-Thanks for stopping by 👋
+_Thanks for stopping by_ 👋
