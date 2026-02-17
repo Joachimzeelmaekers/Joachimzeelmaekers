@@ -8,6 +8,19 @@ I write about software engineering, architecture, and growth at [joachimz.me](ht
 
 > "Keep raising the bar — with clarity, not complexity."
 
+## Recent Writing
+
+- **[The Cost of Keeping What You Should Remove](https://joachimz.me/the-cost-of-keeping-what-you-should-remove/)** — why "it still works" is an expensive lie in software
+- **[What Code Reviews Actually Teach Us](https://joachimz.me/code-reviews/)** — on learning, not gatekeeping
+- **[What Great Teams Understand](https://joachimz.me/what-great-teams-understand/)** — commitment without agreement
+- **[Architecture Without Constraints Is Just Speculation](https://joachimz.me/architecture-without-constraints-is-just-speculation/)** — on practical system design
+
+## Projects
+
+- [**stacksmith**](https://github.com/Joachimzeelmaekers/stacksmith) — a workbench for learning Data Structures and Algorithms
+
+## Toolbox
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=61DAFB)
@@ -24,17 +37,6 @@ I write about software engineering, architecture, and growth at [joachimz.me](ht
 ![Terraform](https://img.shields.io/badge/Terraform-000?style=flat-square&logo=terraform&logoColor=844FBA)
 ![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=F05032)
 
-## Recent Writing
-
-- **[The Cost of Keeping What You Should Remove](https://joachimz.me/the-cost-of-keeping-what-you-should-remove/)** — why "it still works" is an expensive lie in software
-- **[What Code Reviews Actually Teach Us](https://joachimz.me/code-reviews/)** — on learning, not gatekeeping
-- **[What Great Teams Understand](https://joachimz.me/what-great-teams-understand/)** — commitment without agreement
-- **[Architecture Without Constraints Is Just Speculation](https://joachimz.me/architecture-without-constraints-is-just-speculation/)** — on practical system design
-
-## Projects
-
-- [**stacksmith**](https://github.com/Joachimzeelmaekers/stacksmith) — a workbench for learning Data Structures and Algorithms
-
 ## Focus Areas
 
 - Architecture & system design
@@ -44,7 +46,7 @@ I write about software engineering, architecture, and growth at [joachimz.me](ht
 
 ## Activity
 
-![GitHub Activity](https://ghchart.rshah.org/Joachimzeelmaekers)
+![Joachim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joachimzeelmaekers&show_icons=true&theme=dark&hide_border=true)
 
 ## Connect
 
