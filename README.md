@@ -10,14 +10,15 @@ I write about software engineering, architecture, and growth at [joachimz.me](ht
 
 ## Recent Writing
 
-- **[The Cost of Keeping What You Should Remove](https://joachimz.me/the-cost-of-keeping-what-you-should-remove/)** — why "it still works" is an expensive lie in software
-- **[What Code Reviews Actually Teach Us](https://joachimz.me/code-reviews/)** — on learning, not gatekeeping
-- **[What Great Teams Understand](https://joachimz.me/what-great-teams-understand/)** — commitment without agreement
-- **[Architecture Without Constraints Is Just Speculation](https://joachimz.me/architecture-without-constraints-is-just-speculation/)** — on practical system design
+- **[Rebuilding My Blog From the Ground Up](https://joachimz.me/blog/rebuilding-my-blog-from-the-ground-up/)** — what I changed to make writing, publishing, and iteration easier
+- **[The Cost Of Keeping What You Should Remove](https://joachimz.me/the-cost-of-keeping-what-you-should-remove/)** — why "it still works" becomes expensive technical drag over time
+- **[What Code Reviews Actually Teach Us](https://joachimz.me/code-reviews/)** — how review culture can raise standards without becoming gatekeeping
+- **[Commitment Without Agreement: What Great Teams Understand](https://joachimz.me/what-great-teams-understand/)** — why alignment on outcomes matters more than perfect consensus
 
 ## Projects
 
 - [**stacksmith**](https://github.com/Joachimzeelmaekers/stacksmith) — a workbench for learning Data Structures and Algorithms
+- [**ai-tooling**](https://github.com/Joachimzeelmaekers/ai-tooling) — an experimental playground for AI engineering utilities, including token usage reporting and workflow tooling
 
 ## Toolbox
 
