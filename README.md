@@ -4,16 +4,16 @@
 
 Building reliable systems at [DataCamp](https://www.datacamp.com). On the side, building and maintaining a product.
 
-I write about software engineering, architecture, and growth at [joachimz.me](https://joachimz.me).
+I write about software architecture, code quality, developer tooling, and pragmatic engineering trade-offs at [joachimz.me](https://joachimz.me).
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=100&duration=2000&color=C9A9E9&vCenter=true&width=300&lines=Clarity+over+cleverness;Ship+with+confidence;Keep+raising+the+bar)
 
 ## Recent Writing
 
-- **[Rebuilding My Blog From the Ground Up](https://joachimz.me/blog/rebuilding-my-blog-from-the-ground-up/)** — what I changed to make writing, publishing, and iteration easier
-- **[The Cost Of Keeping What You Should Remove](https://joachimz.me/the-cost-of-keeping-what-you-should-remove/)** — why "it still works" becomes expensive technical drag over time
-- **[What Code Reviews Actually Teach Us](https://joachimz.me/code-reviews/)** — how review culture can raise standards without becoming gatekeeping
-- **[Commitment Without Agreement: What Great Teams Understand](https://joachimz.me/what-great-teams-understand/)** — why alignment on outcomes matters more than perfect consensus
+- **[Rebuilding My Blog From the Ground Up](https://joachimz.me/blog/rebuilding-my-blog-from-the-ground-up/)** — moving from Ghost to Astro + Cloudflare Pages to improve performance and control the stack
+- **[Architecture Without Constraints Is Just Speculation](https://joachimz.me/architecture-without-constraints-is-just-speculation/)** — choosing architecture from real constraints, not theoretical scale
+- **[A More Practical Way for Developers to Learn Algorithms](https://joachimz.me/a-more-practical-way-for-developers-to-learn-algorithms/)** — practical DSA and performance lessons from building Stacksmith in Go and TypeScript
+- **[The Cost Of Keeping What You Should Remove](https://joachimz.me/the-cost-of-keeping-what-you-should-remove/)** — reducing long-term maintenance cost by removing low-value features
 
 ## Projects
 
@@ -40,10 +40,10 @@ I write about software engineering, architecture, and growth at [joachimz.me](ht
 
 ## Focus Areas
 
-- Architecture & system design
-- Code quality & maintainability
-- Technical leadership & mentoring
-- Developer experience
+- Software architecture & system design
+- Backend engineering, APIs & cloud infrastructure
+- Performance, algorithms & scalability trade-offs
+- Code quality, refactoring & maintainability
 
 ## Connect
 
