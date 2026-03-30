@@ -13,7 +13,7 @@ I also [write about software engineering](https://joachimz.me/blog) at joachimz.
 - **[A More Practical Way for Developers to Learn Algorithms](https://joachimz.me/a-more-practical-way-for-developers-to-learn-algorithms/)** — practical DSA lessons from building Stacksmith
 - **[The Cost Of Keeping What You Should Remove](https://joachimz.me/the-cost-of-keeping-what-you-should-remove/)** — reducing maintenance by removing low-value features
 
-[📬 Subscribe for new posts](https://joachimz.me/newsletter/)
+[![Subscribe](https://img.shields.io/badge/Subscribe-000?style=flat-square&logo=mail&logoColor=white)](https://joachimz.me/newsletter/)
 
 ## Projects
 
