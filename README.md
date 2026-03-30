@@ -6,14 +6,11 @@ Building reliable systems at [DataCamp](https://www.datacamp.com). On the side, 
 
 I write about software architecture, code quality, developer tooling, and pragmatic engineering trade-offs at [joachimz.me](https://joachimz.me).
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=100&duration=2000&color=C9A9E9&vCenter=true&width=300&lines=Clarity+over+cleverness;Ship+with+confidence;Keep+raising+the+bar)
+## Writing
 
-## Recent Writing
+I share thoughts on software architecture, code quality, and software engineering at [joachimz.me](https://joachimz.me).
 
-- **[Rebuilding My Blog From the Ground Up](https://joachimz.me/blog/rebuilding-my-blog-from-the-ground-up/)** — moving from Ghost to Astro + Cloudflare Pages to improve performance and control the stack
-- **[Architecture Without Constraints Is Just Speculation](https://joachimz.me/architecture-without-constraints-is-just-speculation/)** — choosing architecture from real constraints, not theoretical scale
-- **[A More Practical Way for Developers to Learn Algorithms](https://joachimz.me/a-more-practical-way-for-developers-to-learn-algorithms/)** — practical DSA and performance lessons from building Stacksmith in Go and TypeScript
-- **[The Cost Of Keeping What You Should Remove](https://joachimz.me/the-cost-of-keeping-what-you-should-remove/)** — reducing long-term maintenance cost by removing low-value features
+Subscribe for new posts: [joachimz.me/newsletter](https://joachimz.me/newsletter/)
 
 ## Projects
 
