@@ -4,13 +4,16 @@
 
 Building reliable systems at [DataCamp](https://www.datacamp.com). On the side, building and maintaining a product.
 
-I write about software architecture, code quality, developer tooling, and pragmatic engineering trade-offs at [joachimz.me](https://joachimz.me).
+I also [write about software engineering](https://joachimz.me/blog) at joachimz.me.
 
 ## Writing
 
-I share thoughts on software architecture, code quality, and software engineering at [joachimz.me](https://joachimz.me).
+- **[When Code Outpaces the Systems Around It](https://joachimz.me/blog/when-code-outpaces-the-systems-around-it/)** — AI can write the code. The harder part is everything after: review, tests, approvals, and ownership.
+- **[Rebuilding My Blog From the Ground Up](https://joachimz.me/blog/rebuilding-my-blog-from-the-ground-up/)** — moving from Ghost to Astro + Cloudflare Pages
+- **[A More Practical Way for Developers to Learn Algorithms](https://joachimz.me/a-more-practical-way-for-developers-to-learn-algorithms/)** — practical DSA lessons from building Stacksmith
+- **[The Cost Of Keeping What You Should Remove](https://joachimz.me/the-cost-of-keeping-what-you-should-remove/)** — reducing maintenance by removing low-value features
 
-Subscribe for new posts: [joachimz.me/newsletter](https://joachimz.me/newsletter/)
+[📬 Subscribe for new posts](https://joachimz.me/newsletter/)
 
 ## Projects
 
