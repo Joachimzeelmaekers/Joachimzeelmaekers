@@ -2,7 +2,7 @@
 
 📍 **Belgium** | 🛠️ **Senior Software Engineer** | ✍️ **Writer**
 
-Building reliable systems at [DataCamp](https://www.datacamp.com). On the side, building and maintaining a product.
+Building reliable systems at [Synthesia](https://www.synthesia.io). On the side, building and maintaining a product.
 
 I also [write about software engineering](https://joachimz.me/blog) at joachimz.me.
 
