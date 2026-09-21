@@ -1,6 +1,6 @@
 # Hi, I'm Joachim 👋
 
-📍 **Belgium** | 🛠️ **Senior Software Engineer** | ✍️ **Writer**
+📍 **Belgium** | 🛠️ **Software Engineer** | ✍️ **Writer**
 
 Building reliable systems at [Synthesia](https://www.synthesia.io). On the side, building and maintaining a product.
 
