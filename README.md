@@ -18,7 +18,7 @@ I also [write about software engineering](https://joachimz.me/blog) at joachimz.
 ## Projects
 
 - [**stacksmith**](https://github.com/Joachimzeelmaekers/stacksmith) — a workbench for learning Data Structures and Algorithms
-- [**ai-tooling**](https://github.com/Joachimzeelmaekers/ai-tooling) — an experimental playground for AI engineering utilities, including token usage reporting and workflow tooling
+- [**engineering-dashboard**](https://github.com/Joachimzeelmaekers/engineering-dashboard) — a local dashboard for AI tooling usage and GitHub contribution metrics for engineers
 
 ## Toolbox
 
